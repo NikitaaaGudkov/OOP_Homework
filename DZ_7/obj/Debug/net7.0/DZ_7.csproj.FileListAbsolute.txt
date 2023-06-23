@@ -1,0 +1,15 @@
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.csproj.AssemblyReference.cache
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.AssemblyInfoInputs.cache
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.AssemblyInfo.cs
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.csproj.CoreCompileInputs.cache
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\bin\Debug\net7.0\DZ_7.exe
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\bin\Debug\net7.0\DZ_7.deps.json
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\bin\Debug\net7.0\DZ_7.runtimeconfig.json
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\bin\Debug\net7.0\DZ_7.dll
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\bin\Debug\net7.0\DZ_7.pdb
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.dll
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\refint\DZ_7.dll
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.pdb
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\DZ_7.genruntimeconfig.cache
+C:\Users\n_k_t\Desktop\ДЗGeekBrains\2 четверть\ООП\Homework\DZ_7\obj\Debug\net7.0\ref\DZ_7.dll
